@@ -5,4 +5,15 @@ Both libraries contain key functionality and common tools needed for performing 
 Astropy library aims to enable the community to develop a robust ecosystem of affiliated packages covering a broad range of needs for astronomical 
 research, data processing, and data analysis.
 
-These examples run in any drive in the cloud  using https://colab.research.google.com/
+# Agrupación astronómica de Castelldefels (AA
+https://youtu.be/Xavyjs1A_1w
+
+
+# How to run the examples  
+
+https://colab.research.google.com/ 
+
+ Author:   Jorge Higuera Portilla
+ email:    jhiguera@ieee.org
+ Date:     09/10/2021
+ Entity:   Agrupacion astronomica de Castelldefels (AAC) https://astrofels.blogspot.com/
